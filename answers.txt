@@ -1,0 +1,5 @@
+What is a remote repository?
+
+A remote repo is a centralized version of project that is hosted on a remote server.
+GitHub provides such a service. Users are able to clone a copy of the repo and make their own changes
+without affecting the central repo. 
