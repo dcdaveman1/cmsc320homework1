@@ -1,5 +1,5 @@
-What is a remote repository?
+What is the difference between a merge and a rebase?
 
-A version of a project that is hosted on a remote server such as GitHub. This is accessible to multiple users
-where users can clone the repository and make their own modifications on their local machine without affecting 
-the central repository. 
+A merge combines changes from multiple branches into a single branch. 
+
+A rebase will apply changes from one branch to another branch. 
